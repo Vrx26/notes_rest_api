@@ -4,3 +4,4 @@
 2. Активировать его: `source env/bin/activate`
 3. Установить зависимости: `pip install sqlalchemy flask`
 4. Запустить сервер: `python main.py`
+5. Приложение должно быть доступно по адресу localhost:5000
